@@ -1,0 +1,6 @@
+Pick the right library
+
+We installed a library called pillow used for image processing in python. We need to use the library which is
+latest, more contributed and more downloaded and work with python3. Also we need to read the warnings and basic info about the library
+before using it, so that we know what we are up against.
+

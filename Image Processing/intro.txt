@@ -1,0 +1,6 @@
+Image processing is used by a lot of companies. Instagram processes images before posting it, it adds some filters
+and crops them to look nicer and save money. Original Images are more than 5MB, and if instagram started uploading
+original images, it would be much costlier to store images on servers.
+
+Same thing is done by udemy, they compress the video which saves them space and money and, it also helps people with
+poor internet connection to watch the video easily
